@@ -1,11 +1,20 @@
-<div align="center">
+# NovaAI-landing-page
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+> Today AI Aligns With Bold Dreams — Dark cinematic AI marketing landing page with full-viewport scroll-scrubbed video background and frosted glass UI.
 
-  <h1>Built with AI Studio</h2>
+## Tech Stack
+- React 19 + TypeScript + Vite
+- Tailwind CSS v4
+- Lucide React
+- CloudFront dynamic scroll-scrubbed video timeline engine
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+## Development
+```bash
+npm install
+npm run dev
+```
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
-
-</div>
+## Production Build
+```bash
+npm run build
+```
